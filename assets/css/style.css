@@ -165,7 +165,7 @@ footer {
 }
 
 #Rock-butt, #Rutgers-butt, #Trivia-butt, #RPG-butt, #Hangman-butt{
-    position: absolute;
+  position: absolute;
   font-family: "Georgia", Times, "Times New Roman", serif;
   margin: 0;
   margin-bottom: 20px;
