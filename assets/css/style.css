@@ -1,0 +1,207 @@
+.page_top {
+  background-color: white;
+  padding-bottom: 90px
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 150%;
+  background-image: url("cork-wallet.png");
+  background-image: url(../images/cork-wallet.png)
+
+}
+header {
+  background: #4aaaa5;
+}
+
+
+nav {
+    font-family: "Georgia", Times New Roman, Times, serif, color: black;
+  float: right;
+  margin-top: 30px;
+  margin-right: 180px
+
+}
+
+h1 {
+
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 20px 0;
+  margin-left: 145px;
+  font-size: 24px;
+  height: 50px;
+  width: 300px;
+  float: left;
+  color: white;
+  text-align: center;
+  background: #4aaaa5;
+  background-width: 70px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #4aaaa5;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+a {
+  color: #d21034;
+}
+
+.container {
+  margin-right: 10px;
+  float: left;
+  margin-left: 30px;
+  overflow: auto;
+}
+.other-container {
+  clear: both;
+  margin-right: 10px;
+  /*float: left;*/
+  margin-left: 30px;
+  overflow: auto;
+}
+#contact-info {
+    text-decoration: none;
+    color: #777777 ;
+}
+
+#bio-image {
+  float: left;
+}
+
+#main-bio {
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  width: 45%;
+  height: 400px;
+  margin-left: 120px;
+  border: 2px solid lightgrey;
+  float: left;
+  padding: 20px;
+  background-color: #ffffff;
+  overflow: auto;
+  margin-bottom: 50px;
+}
+
+#contact-info {
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  width: 210px;
+  margin-top: 5px;
+  margin-right: 160px;
+  border: 1px solid white;
+  float: right;
+  padding: 20px;
+  background-color: #ffffff;
+  overflow: auto;
+  text-align: center;
+}
+#bio-image {
+  margin-right: 20px;
+  width: 200px;
+  height: 200px;
+}
+#resources {
+  float: right;
+  padding: 10px;
+  margin-bottom: 10px;
+  height: 20px;
+  width: 100%;
+  text-align: center;
+  background: #eee;
+}
+
+footer {
+  font-size: 10pt;
+  clear: both;
+  background-color: #666666;
+  border: 1px solid #666666;
+  padding: 30px;
+  height: 40px;
+  text-align: center;
+
+}
+
+.topline {
+  width: 100%
+  height: 4px;
+  border: 1px solid lightgrey;
+  background-color: grey;
+}
+
+.line {
+  clear: both;
+  width: 100%
+  height: 8px;
+  border: 4px solid #4aaaa5;
+  background-color: #4aaaa5;
+}
+
+#Nav1{
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    text-decoration: none;
+    padding-right: 16px;
+    border-right: 1px solid #cccccc ;
+    color: #777777
+
+}
+
+#Nav2{
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    text-decoration: none;
+    margin-left: 8px;
+    margin-right: 8px;
+    color: #777777
+
+}
+#Nav3{
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    text-decoration: none;
+    padding-left: 16px;
+    border-left: 1px solid #cccccc ;
+    color: #777777
+}
+
+#Rock-butt, #Rutgers-butt, #Trivia-butt, #RPG-butt, #Hangman-butt{
+    position: absolute;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 20px 0;
+  margin-left: -205px;  
+  font-size: 24px;
+  height: 20px;
+  width: 200px;
+  float: left;
+  color: white;
+  text-align: center;
+  background: #4aaaa5;
+  background-width: 70px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
